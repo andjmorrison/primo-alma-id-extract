@@ -16,14 +16,14 @@ javascript: (() => {
         let systemNode = document.createElement('H3');
         systemNode.setAttribute('style','color:red');
         systemNode.style.textAlign = 'center'; 
-        let systemTextNode = document.createTextNode(`System: ${system}`);
+        let systemTextNode = document.createTextNode(`SYSTEM: ${system}`);
         systemNode.appendChild(systemTextNode);
         listItemArray[i].appendChild(systemNode);
 
         let idNode = document.createElement('H3');
         idNode.setAttribute('style', 'color:red');
         idNode.style.textAlign = 'center';
-        let idTextNode = document.createTextNode(`MMSid: ${id}`);
+        let idTextNode = document.createTextNode(`MMSID: ${id}`);
         idNode.appendChild(idTextNode);
         listItemArray[i].appendChild(idNode);
     });
