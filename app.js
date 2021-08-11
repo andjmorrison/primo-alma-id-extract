@@ -21,7 +21,7 @@ javascript: (() => {
         let idNode = document.createElement('H3');
         idNode.setAttribute('style', 'color:red');
         idNode.style.textAlign = 'center';
-        let idTextNode = document.createTextNode(`MMSID: ${id}`);
+        let idTextNode = document.createTextNode(`ID: ${id}`);
         idNode.appendChild(idTextNode);
         listItemArray[i].appendChild(idNode);
     });
