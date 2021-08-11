@@ -7,3 +7,7 @@
 **Usage**
 
 *Create bookmarklet by pasting contents of ```app.js``` into bookmark URL field. Run the bookmarklet on a Primo search results screen to display information.*
+
+**Known Bugs**
+
+[ ] Clicking inside each result still navigates to each title card. Will fix in new version. Click and drag to select MMSID.
