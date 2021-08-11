@@ -10,4 +10,5 @@
 
 **Known Bugs**
 
-* [ ] Clicking inside each result still navigates to each title card. Will fix in new version. Click and drag to select MMSID.
+* [ ] Clicking inside each result still navigates to each title card. Click and drag to select MMSID.
+* [ ] RegEx matching on ID no. is being performed on integers only. For some eResources with alphanumeric IDs, this will place alpha-characters in SYSTEM div. Further testing needed.
