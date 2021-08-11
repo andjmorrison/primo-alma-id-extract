@@ -10,4 +10,4 @@
 
 **Known Bugs**
 
-[ ] Clicking inside each result still navigates to each title card. Will fix in new version. Click and drag to select MMSID.
+* [ ] Clicking inside each result still navigates to each title card. Will fix in new version. Click and drag to select MMSID.
